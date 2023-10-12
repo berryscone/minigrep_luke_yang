@@ -1,0 +1,7 @@
+[package]
+name = "minigrep_luke_yang"
+version = "0.1.0"
+license = "MIT"
+description = "minimized grep in The Rust Programming Language created by Luke Yang"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html

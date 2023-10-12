@@ -1,0 +1,4 @@
+    Finished dev [unoptimized + debuginfo] target(s) in 0.02s
+     Running `target\debug\minigrep.exe`
+Problem parsing arguments: not enough arguments
+error: process didn't exit successfully: `target\debug\minigrep.exe` (exit code: 1)
