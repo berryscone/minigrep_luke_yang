@@ -1,6 +1,6 @@
 [package]
 name = "minigrep_luke_yang"
-version = "0.1.0"
+version = "0.1.1"
 license = "MIT"
 description = "minimized grep in The Rust Programming Language created by Luke Yang"
 
